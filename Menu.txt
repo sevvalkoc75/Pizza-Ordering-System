@@ -1,0 +1,19 @@
+* Lütfen Pizzanızı Seçiniz:
+1: Marherita Pizza --> 100₺
+2: Tuscany Pizza -----> 105₺
+3: Napolitana Pizza ----> 90₺
+4: Turkish Pizza ----> 110₺
+5: Basic Pizza-> 90₺
+6: Vegan Pizza --> 45₺
+* Seçmek İstediğiniz Ekstra Malzemeler:
+11: Zeytin --> 1.25₺
+12: Mantar --> 2.35₺
+13: Peynir --> 3.50₺
+14: Et ------> 7.50₺
+15: Soğan ---> 3.75₺
+16: Mısır ---> 1.75₺
+17: Pastırma-> 8.75₺
+18: Sucuk ---> 5.75₺
+19: Jambon --> 4.25₺
+20: Kekik ---> 0.50₺
+* Seçiminiz İçin Teşekkür Ederiz!
